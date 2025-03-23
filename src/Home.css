@@ -1,0 +1,10 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .product-link {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+  }
